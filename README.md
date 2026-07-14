@@ -90,7 +90,7 @@ During my internship, I participated in manual testing for web applications, inc
 
 📧 Email: <erwitalarasati334@gmail.com>
 
-🌐 Notion Portfolio: **[]**
+🌐 Notion Portfolio: 🌐 Notion Portfolio: [View Portfolio](https://www.notion.so/My-Portofolio-Personal-Achievment-bb6fc104e8388361b71101b7ad31386d)
 
 🐙 GitHub: [Larass-a11y](https://github.com/Larass-a11y)
 
