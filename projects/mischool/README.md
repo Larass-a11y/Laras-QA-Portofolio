@@ -3,6 +3,7 @@
 ## Project Overview
 
 MiSchool is a web-based School Management System covering online learning, exams, and school administration for Teacher, School, and Student roles. During my internship as a Quality Assurance Intern at PT Humma Teknologi Indonesia, I acted as the solo QA on this project, responsible for designing and executing test cases to ensure the application functioned according to business requirements.
+
 ---
 
 ## My Role
