@@ -1,3 +1,10 @@
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-Experienced-brightgreen)
+![Test Case Design](https://img.shields.io/badge/Test_Case_Design-Experienced-blue)
+![Bug Reporting](https://img.shields.io/badge/Bug_Reporting-Experienced-red)
+![Postman](https://img.shields.io/badge/Postman-Basic-orange)
+![Cypress](https://img.shields.io/badge/Cypress-Basic-success)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow)
+
 # 👋 Hi, I'm Erwita Hayuning Larasati
 
 ## Quality Assurance Portfolio
