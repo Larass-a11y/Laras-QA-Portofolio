@@ -81,10 +81,10 @@ During my internship, I participated in manual testing for web applications, inc
 
 ## 📜 Certifications
 
-- 📄 [QA Internship](./certificates/Sertifikat QA.pdf)
+- 📄 [QA Internship](./certificates/Sertifikat%20QA.pdf)
 - 📄 [Fundamental QA](./certificates/Fundamental_QA.pdf)
 - 📄 [QA SDLC](./certificates/QA_SDLC.pdf)
-- 📄 [API Testing](./certificates/API Testing.pdf)
+- 📄 [API Testing](./certificates/API%20Testing.pdf)
 
 ## 📫 Contact
 
