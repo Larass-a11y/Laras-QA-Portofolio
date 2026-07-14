@@ -7,9 +7,9 @@
 
 # 👋 Hi, I'm Erwita Hayuning Larasati
 
-## Quality Assurance Portfolio
+## Quality Assurance Portofolio
 
-Welcome to my Quality Assurance Portfolio!
+Welcome to my Quality Assurance Portofolio!
 
 I am a Fresh Graduate from **SMK Negeri 6 Malang**, majoring in **Sistem Informasi Jaringan dan Aplikasi**, with **10 months of internship experience as a Quality Assurance Intern** at **PT Humma Teknologi Indonesia**.
 
@@ -88,9 +88,9 @@ During my internship, I participated in manual testing for web applications, inc
 
 ## 📫 Contact
 
-📧 Email: <erwitalarasati334@gmail.com>
+📧 Email: [erwitalarasati334@gmail.com](mailto:erwitalarasati334@gmail.com)
 
-🌐 Notion Portfolio: 🌐 Notion Portfolio: [View Portfolio](https://www.notion.so/My-Portofolio-Personal-Achievment-bb6fc104e8388361b71101b7ad31386d)
+🌐 Notion Portofolio: [View Portfolio](https://www.notion.so/My-Portofolio-Personal-Achievment-bb6fc104e8388361b71101b7ad31386d)
 
 🐙 GitHub: [Larass-a11y](https://github.com/Larass-a11y)
 
@@ -98,6 +98,6 @@ During my internship, I participated in manual testing for web applications, inc
 
 ## ⭐ Thank You
 
-Thank you for taking the time to visit my Quality Assurance Portfolio.
+Thank you for taking the time to visit my Quality Assurance Portofolio.
 
 I hope this repository provides a clear overview of my internship experience, testing documentation, and technical skills. I am always eager to learn, grow, and contribute to building high-quality software.
