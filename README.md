@@ -1,9 +1,9 @@
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-Experienced-brightgreen)
-![Test Case Design](https://img.shields.io/badge/Test_Case_Design-Experienced-blue)
-![Bug Reporting](https://img.shields.io/badge/Bug_Reporting-Experienced-red)
+![Functional Testing](https://img.shields.io/badge/Functional_Testing-Experienced-blue)
+![Test Case Design](https://img.shields.io/badge/Test_Case_Design-Experienced-blueviolet)
 ![Postman](https://img.shields.io/badge/Postman-Basic-orange)
 ![Cypress](https://img.shields.io/badge/Cypress-Basic-success)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-Basic-yellow)
 
 # 👋 Hi, I'm Erwita Hayuning Larasati
 
@@ -56,57 +56,14 @@ During my internship, I participated in manual testing for web applications, inc
 
 ---
 
-## 🛠 Tech Stack
-
-| Category | Tools |
-|----------|-------|
-| Testing | Manual Testing, Functional Testing, Regression Testing |
-| API | Postman |
-| Automation | Cypress (Basic) |
-| Documentation | Google Sheets, Google Docs |
-| Version Control | Git & GitHub |
-| Programming | JavaScript (Basic), HTML, CSS |
-
 ## 📂 Projects
 
-### 📚 GetSkill
-Learning Management System testing project.
-
-- Manual Testing
-- Test Case Design
-- Bug Reporting
-- Functional Testing
-
----
-
-### 🏫 MiSchool
-School Management System testing project.
-
-- Manual Testing
-- Feature Validation
-- Bug Reporting
-
----
-
-### 🏥 V-Kes
-Healthcare website testing project.
-
-- Functional Testing
-- UI Testing
-- Bug Reporting
-
----
-
-### 💻 Intest
-Internal web application testing project.
-
-- Manual Testing
-- Test Documentation
-
-Each project includes:
-- Test Case Documentation
-- Test Scenarios
-- Testing Documentation
+| Project | Description |
+|----------|-------------|
+| 📚 **[GetSkill](./projects/getskill/)** | Learning Management System |
+| 🏫 **[MiSchool](./projects/mischool/)** | School Management System |
+| 🏥 **[V-Kes](./projects/v-kes/)** | Healthcare Website |
+| 💻 **[Intest](./projects/intest/)** | Online Examination System |
 
 ---
 
@@ -122,13 +79,20 @@ Each project includes:
 
 ---
 
+## 📜 Certifications
+
+- QA Bootcamp
+- JavaScript
+- Git & GitHub
+- Postman
+
 ## 📫 Contact
 
-📧 Email: erwitalarasati334@gmail.com
+📧 Email: <erwitalarasati334@gmail.com>
 
-🌐 Notion Portfolio: **https://your-notion-link**
+🌐 Notion Portfolio: **[]**
 
-🐙 GitHub: **https://github.com/your-username**
+🐙 GitHub: [Larass-a11y](https://github.com/Larass-a11y)
 
 ---
 
