@@ -1,20 +1,21 @@
 class ProductsPage {
   constructor(page) {
     this.page = page;
-    this.pageTitle = page.locator('.title');
-    this.cartBadge = page.locator('.shopping_cart_badge');
-    this.cartIcon = page.locator('.shopping_cart_link');
+    this.pageTitle = page.locator(".title");
+    this.cartBadge = page.locator(".shopping_cart_badge");
+    this.cartIcon = page.locator(".shopping_cart_link");
     this.sortDropdown = page.locator('[data-test="product-sort-container"]');
-    this.productPrices = page.locator('.inventory_item_price');
+    this.productPrices = page.locator('[data-test="inventory_item_price"]');
+    this.productNames = page.locator('[data-test="inventory-item-name"]');
   }
 
   addProductToCart(productName) {
-    const slug = productName.toLowerCase().replace(/\s+/g, '-');
+    const slug = productName.toLowerCase().replace(/\s+/g, "-");
     return this.page.locator(`[data-test="add-to-cart-${slug}"]`).click();
   }
 
   removeProductFromCart(productName) {
-    const slug = productName.toLowerCase().replace(/\s+/g, '-');
+    const slug = productName.toLowerCase().replace(/\s+/g, "-");
     return this.page.locator(`[data-test="remove-${slug}"]`).click();
   }
 
