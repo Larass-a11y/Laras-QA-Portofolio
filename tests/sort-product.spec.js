@@ -42,12 +42,15 @@ test("TC-15 sorting produk berdasarkan harga tertinggi ke terendah", async ({
   await productPage.sortBy("hilo");
 
   const allProductNames = await productPage.productPrices.allTextContents();
-  const sortedProduct = [...allProductNames];
-  sortedProduct.sort();
-  expect(allProductNames).toEqual(sortedProduct);
+  const sortedPrice = allProductNames.map((product) => {
+    return parseFloat(product);
+  });
+  const resultPrice = [...sortedPrice];
+  resultPrice.sort((a, b) => b - a);
+  expect(sortedPrice).toEqual(resultPrice);
 });
 
-test("TC-15 sorting produk berdasarkan harga terendah ke tertinggi", async ({
+test("TC-16 sorting produk berdasarkan harga terendah ke tertinggi", async ({
   page,
 }) => {
   const loginPage = new LoginPage(page);
@@ -58,8 +61,10 @@ test("TC-15 sorting produk berdasarkan harga terendah ke tertinggi", async ({
   await productPage.sortBy("lohi");
 
   const allProductNames = await productPage.productPrices.allTextContents();
-  const sortedProduct = [...allProductNames];
-  sortedProduct.sort();
-  sortedProduct.reverse();
-  expect(allProductNames).toEqual(sortedProduct);
+  const sortedPrice = allProductNames.map((product) => {
+    return parseFloat(product);
+  });
+  const resultPrice = [...sortedPrice];
+  resultPrice.sort((a, b) => a - b);
+  expect(sortedPrice).toEqual(resultPrice);
 });
