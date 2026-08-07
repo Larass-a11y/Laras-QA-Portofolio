@@ -5,7 +5,7 @@ class ProductsPage {
     this.cartBadge = page.locator(".shopping_cart_badge");
     this.cartIcon = page.locator(".shopping_cart_link");
     this.sortDropdown = page.locator('[data-test="product-sort-container"]');
-    this.productPrices = page.locator('[data-test="inventory_item_price"]');
+    this.productPrices = page.locator('[data-test="inventory-item-price"]');
     this.productNames = page.locator('[data-test="inventory-item-name"]');
   }
 
