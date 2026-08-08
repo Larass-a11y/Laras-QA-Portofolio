@@ -4,9 +4,14 @@ class ProductsPage {
     this.pageTitle = page.locator(".title");
     this.cartBadge = page.locator(".shopping_cart_badge");
     this.cartIcon = page.locator(".shopping_cart_link");
+    this.badgeMenu = page.locator("#react-burger-menu-btn");
+    this.allItemMenu = page.locator('[data-test="inventory-sidebar-link"]');
+    this.logOutMenu = page.locator('[data-test="logout-sidebar-link"]');
+    this.resetAppMenu = page.locator('[data-test="reset-sidebar-link"]');
     this.sortDropdown = page.locator('[data-test="product-sort-container"]');
     this.productPrices = page.locator('[data-test="inventory-item-price"]');
     this.productNames = page.locator('[data-test="inventory-item-name"]');
+    this.addBtnCart = page.locator('[data-test="add-to-cart"]');
   }
 
   addProductToCart(productName) {
