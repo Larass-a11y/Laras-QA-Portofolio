@@ -3,6 +3,7 @@
 ![Test Case Design](https://img.shields.io/badge/Test_Case_Design-Experienced-blueviolet)
 ![Postman](https://img.shields.io/badge/Postman-Basic-orange)
 ![Cypress](https://img.shields.io/badge/Cypress-Basic-success)
+![Playwright](https://img.shields.io/badge/Playwright-Basic-45ba4b)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Basic-yellow)
 
 # 👋 Hi, I'm Erwita Hayuning Larasati
@@ -43,6 +44,7 @@ During my internship, I participated in manual testing for web applications, inc
 ### Tools
 - Postman
 - Cypress (Basic)
+- Playwright (Basic)
 - Git & GitHub (Basic)
 - Google Sheets
 - Google Docs
@@ -64,6 +66,7 @@ During my internship, I participated in manual testing for web applications, inc
 | 🏫 **[MiSchool](./projects/mischool/)** | School Management System |
 | 🏥 **[V-Kes](./projects/v-kes/)** | Healthcare Website |
 | 💻 **[Intest](./projects/intest/)** | Online Examination System |
+| 🎭 **[Playwright Automation](./automation-testing/playwright/)** | Automation Testing Suite (Saucedemo) |
 
 ---
 
