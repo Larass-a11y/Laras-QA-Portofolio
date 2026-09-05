@@ -21,7 +21,7 @@ During my internship, I participated in manual testing for web applications, inc
 ## 👩‍💻 About Me
 
 - 🎓 Fresh Graduate – SMK Negeri 6 Malang
-- 💼 10 Months Internship as Quality Assurance Intern
+- 💼 1 years Internship as Quality Assurance Intern
 - 📍 Malang, Indonesia
 - 🌱 Currently learning Software Testing, API Testing, JavaScript, and Automation Testing
 
@@ -44,6 +44,7 @@ During my internship, I participated in manual testing for web applications, inc
 ### Tools
 - Postman
 - Cypress (Basic)
+- K6 (Basic)
 - Playwright (Basic)
 - Git & GitHub (Basic)
 - Google Sheets
@@ -53,6 +54,7 @@ During my internship, I participated in manual testing for web applications, inc
 
 ### Programming
 - JavaScript (Basic)
+- TypeScript (Basic)
 - HTML
 - CSS
 
@@ -67,6 +69,7 @@ During my internship, I participated in manual testing for web applications, inc
 | 🏥 **[V-Kes](./projects/v-kes/)** | Healthcare Website |
 | 💻 **[Intest](./projects/intest/)** | Online Examination System |
 | 🎭 **[Playwright Automation](./automation-testing/playwright/)** | Automation Testing Suite (Saucedemo) |
+| 🎭 **[Playwright Automation](./automation-testing/playwright/)** | Automation Testing Suite (Automation Exercise) |
 
 ---
 
