@@ -3,6 +3,7 @@
 ![Test Case Design](https://img.shields.io/badge/Test_Case_Design-Experienced-blueviolet)
 ![Postman](https://img.shields.io/badge/Postman-Basic-orange)
 ![Cypress](https://img.shields.io/badge/Cypress-Basic-success)
+![Playwright](https://img.shields.io/badge/Playwright-Basic-45ba4b)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Basic-yellow)
 
 # 👋 Hi, I'm Erwita Hayuning Larasati
@@ -11,7 +12,7 @@
 
 Welcome to my Quality Assurance Portofolio!
 
-I am a Fresh Graduate from **SMK Negeri 6 Malang**, majoring in **Sistem Informasi Jaringan dan Aplikasi**, with **10 months of internship experience as a Quality Assurance Intern** at **PT Humma Teknologi Indonesia**.
+I am a Fresh Graduate from **SMK Negeri 6 Malang**, majoring in **Sistem Informasi Jaringan dan Aplikasi**, with **1 years of internship experience as a Quality Assurance Intern** at **PT Humma Teknologi Indonesia**.
 
 During my internship, I participated in manual testing for web applications, including creating test cases, executing functional testing, validating application features, reporting bugs, and collaborating with developers to ensure software quality before release. I enjoy working systematically, have strong attention to detail, and am committed to continuously improving my knowledge and skills in Software Quality Assurance.
 
@@ -20,7 +21,7 @@ During my internship, I participated in manual testing for web applications, inc
 ## 👩‍💻 About Me
 
 - 🎓 Fresh Graduate – SMK Negeri 6 Malang
-- 💼 10 Months Internship as Quality Assurance Intern
+- 💼 1 years Internship as Quality Assurance Intern
 - 📍 Malang, Indonesia
 - 🌱 Currently learning Software Testing, API Testing, JavaScript, and Automation Testing
 
@@ -43,6 +44,8 @@ During my internship, I participated in manual testing for web applications, inc
 ### Tools
 - Postman
 - Cypress (Basic)
+- K6 (Basic)
+- Playwright (Basic)
 - Git & GitHub (Basic)
 - Google Sheets
 - Google Docs
@@ -51,6 +54,7 @@ During my internship, I participated in manual testing for web applications, inc
 
 ### Programming
 - JavaScript (Basic)
+- TypeScript (Basic)
 - HTML
 - CSS
 
@@ -64,6 +68,8 @@ During my internship, I participated in manual testing for web applications, inc
 | 🏫 **[MiSchool](./projects/mischool/)** | School Management System |
 | 🏥 **[V-Kes](./projects/v-kes/)** | Healthcare Website |
 | 💻 **[Intest](./projects/intest/)** | Online Examination System |
+| 🎭 **[Playwright Automation](./automation-testing/playwright/)** | Automation Testing Suite (Saucedemo) |
+| 🎭 **[Playwright Automation](./automation-testing/playwright/)** | Automation Testing Suite (Automation Exercise) |
 
 ---
 
