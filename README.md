@@ -12,7 +12,7 @@
 
 Welcome to my Quality Assurance Portofolio!
 
-I am a Fresh Graduate from **SMK Negeri 6 Malang**, majoring in **Sistem Informasi Jaringan dan Aplikasi**, with **10 months of internship experience as a Quality Assurance Intern** at **PT Humma Teknologi Indonesia**.
+I am a Fresh Graduate from **SMK Negeri 6 Malang**, majoring in **Sistem Informasi Jaringan dan Aplikasi**, with **1 years of internship experience as a Quality Assurance Intern** at **PT Humma Teknologi Indonesia**.
 
 During my internship, I participated in manual testing for web applications, including creating test cases, executing functional testing, validating application features, reporting bugs, and collaborating with developers to ensure software quality before release. I enjoy working systematically, have strong attention to detail, and am committed to continuously improving my knowledge and skills in Software Quality Assurance.
 
