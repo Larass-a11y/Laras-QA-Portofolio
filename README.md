@@ -68,8 +68,8 @@ During my internship, I participated in manual testing for web applications, inc
 | 🏫 **[MiSchool](./projects/mischool/)** | School Management System |
 | 🏥 **[V-Kes](./projects/v-kes/)** | Healthcare Website |
 | 💻 **[Intest](./projects/intest/)** | Online Examination System |
-| 🎭 **[Playwright Automation](./automation-testing/playwright/)** | Automation Testing Suite (Saucedemo) |
-| 🎭 **[Playwright Automation](./automation-testing/playwright/)** | Automation Testing Suite (Automation Exercise) |
+| 🎭 **[Playwright - Saucedemo](./automation-project/playwright-saucedemo/)** | Automation Testing Suite (Saucedemo) |
+| 🎭 **[Playwright - Automation Exercise](./automation-project/playwright-automationexercise/)** | Automation Testing Suite (Automation Exercise) |
 
 ---
 
