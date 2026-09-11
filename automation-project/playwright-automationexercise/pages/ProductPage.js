@@ -16,9 +16,5 @@ class ProductPage {
     await this.searchButton.click();
     await this.headingText.waitFor({ state: "visible" });
   }
-
-  // async verifyNoProductDisplayed() {
-  //   await expect(this.cardProducts).toHaveCount(0);
-  // }
 }
 module.exports = { ProductPage };
